@@ -1,6 +1,4 @@
-#SVMDetectorUsingHOGfeature
-
-====
+# SVMDetectorUsingHOGfeature
 
 ## Overview
 
