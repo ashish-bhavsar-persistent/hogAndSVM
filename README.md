@@ -1,7 +1,8 @@
-SVMDetectorUsingHOGfeature
+# SVMDetectorUsingHOGfeature
 
 ====
-Overview
+
+## Overview
 
 自身の顔検出器の作成
 
